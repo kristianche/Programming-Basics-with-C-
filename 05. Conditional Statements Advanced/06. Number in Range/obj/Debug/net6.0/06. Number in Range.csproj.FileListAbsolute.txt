@@ -1,0 +1,5 @@
+C:\Users\chele\softuni\C#\C# Basics\05. Conditional Statements Advanced\06. Number in Range\obj\Debug\net6.0\06. Number in Range.csproj.AssemblyReference.cache
+C:\Users\chele\softuni\C#\C# Basics\05. Conditional Statements Advanced\06. Number in Range\obj\Debug\net6.0\06. Number in Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chele\softuni\C#\C# Basics\05. Conditional Statements Advanced\06. Number in Range\obj\Debug\net6.0\06. Number in Range.AssemblyInfoInputs.cache
+C:\Users\chele\softuni\C#\C# Basics\05. Conditional Statements Advanced\06. Number in Range\obj\Debug\net6.0\06. Number in Range.AssemblyInfo.cs
+C:\Users\chele\softuni\C#\C# Basics\05. Conditional Statements Advanced\06. Number in Range\obj\Debug\net6.0\06. Number in Range.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+C:\Users\chele\softuni\C#\C# Basics\05. Conditional Statements Advanced\05. Small Shop\obj\Debug\net6.0\05. Small Shop.csproj.AssemblyReference.cache
+C:\Users\chele\softuni\C#\C# Basics\05. Conditional Statements Advanced\05. Small Shop\obj\Debug\net6.0\05. Small Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chele\softuni\C#\C# Basics\05. Conditional Statements Advanced\05. Small Shop\obj\Debug\net6.0\05. Small Shop.AssemblyInfoInputs.cache
+C:\Users\chele\softuni\C#\C# Basics\05. Conditional Statements Advanced\05. Small Shop\obj\Debug\net6.0\05. Small Shop.AssemblyInfo.cs
+C:\Users\chele\softuni\C#\C# Basics\05. Conditional Statements Advanced\05. Small Shop\obj\Debug\net6.0\05. Small Shop.csproj.CoreCompileInputs.cache
