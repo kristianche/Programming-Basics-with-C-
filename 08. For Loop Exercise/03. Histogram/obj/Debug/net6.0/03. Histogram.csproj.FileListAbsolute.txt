@@ -1,0 +1,15 @@
+C:\Users\chele\softuni\C#\C# Basics\08. For Loop Exercise\03. Histogram\bin\Debug\net6.0\03. Histogram.exe
+C:\Users\chele\softuni\C#\C# Basics\08. For Loop Exercise\03. Histogram\bin\Debug\net6.0\03. Histogram.deps.json
+C:\Users\chele\softuni\C#\C# Basics\08. For Loop Exercise\03. Histogram\bin\Debug\net6.0\03. Histogram.runtimeconfig.json
+C:\Users\chele\softuni\C#\C# Basics\08. For Loop Exercise\03. Histogram\bin\Debug\net6.0\03. Histogram.dll
+C:\Users\chele\softuni\C#\C# Basics\08. For Loop Exercise\03. Histogram\bin\Debug\net6.0\03. Histogram.pdb
+C:\Users\chele\softuni\C#\C# Basics\08. For Loop Exercise\03. Histogram\obj\Debug\net6.0\03. Histogram.csproj.AssemblyReference.cache
+C:\Users\chele\softuni\C#\C# Basics\08. For Loop Exercise\03. Histogram\obj\Debug\net6.0\03. Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chele\softuni\C#\C# Basics\08. For Loop Exercise\03. Histogram\obj\Debug\net6.0\03. Histogram.AssemblyInfoInputs.cache
+C:\Users\chele\softuni\C#\C# Basics\08. For Loop Exercise\03. Histogram\obj\Debug\net6.0\03. Histogram.AssemblyInfo.cs
+C:\Users\chele\softuni\C#\C# Basics\08. For Loop Exercise\03. Histogram\obj\Debug\net6.0\03. Histogram.csproj.CoreCompileInputs.cache
+C:\Users\chele\softuni\C#\C# Basics\08. For Loop Exercise\03. Histogram\obj\Debug\net6.0\03. Histogram.dll
+C:\Users\chele\softuni\C#\C# Basics\08. For Loop Exercise\03. Histogram\obj\Debug\net6.0\refint\03. Histogram.dll
+C:\Users\chele\softuni\C#\C# Basics\08. For Loop Exercise\03. Histogram\obj\Debug\net6.0\03. Histogram.pdb
+C:\Users\chele\softuni\C#\C# Basics\08. For Loop Exercise\03. Histogram\obj\Debug\net6.0\03. Histogram.genruntimeconfig.cache
+C:\Users\chele\softuni\C#\C# Basics\08. For Loop Exercise\03. Histogram\obj\Debug\net6.0\ref\03. Histogram.dll
