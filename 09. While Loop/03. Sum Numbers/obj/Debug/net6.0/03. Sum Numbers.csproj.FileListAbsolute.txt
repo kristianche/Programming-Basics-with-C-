@@ -1,0 +1,15 @@
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\03. Sum Numbers\bin\Debug\net6.0\03. Sum Numbers.exe
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\03. Sum Numbers\bin\Debug\net6.0\03. Sum Numbers.deps.json
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\03. Sum Numbers\bin\Debug\net6.0\03. Sum Numbers.runtimeconfig.json
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\03. Sum Numbers\bin\Debug\net6.0\03. Sum Numbers.dll
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\03. Sum Numbers\bin\Debug\net6.0\03. Sum Numbers.pdb
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\03. Sum Numbers\obj\Debug\net6.0\03. Sum Numbers.csproj.AssemblyReference.cache
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\03. Sum Numbers\obj\Debug\net6.0\03. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\03. Sum Numbers\obj\Debug\net6.0\03. Sum Numbers.AssemblyInfoInputs.cache
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\03. Sum Numbers\obj\Debug\net6.0\03. Sum Numbers.AssemblyInfo.cs
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\03. Sum Numbers\obj\Debug\net6.0\03. Sum Numbers.csproj.CoreCompileInputs.cache
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\03. Sum Numbers\obj\Debug\net6.0\03. Sum Numbers.dll
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\03. Sum Numbers\obj\Debug\net6.0\refint\03. Sum Numbers.dll
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\03. Sum Numbers\obj\Debug\net6.0\03. Sum Numbers.pdb
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\03. Sum Numbers\obj\Debug\net6.0\03. Sum Numbers.genruntimeconfig.cache
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\03. Sum Numbers\obj\Debug\net6.0\ref\03. Sum Numbers.dll
