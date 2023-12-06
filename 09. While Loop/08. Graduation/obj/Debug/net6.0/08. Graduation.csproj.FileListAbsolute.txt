@@ -1,0 +1,15 @@
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\08. Graduation\bin\Debug\net6.0\08. Graduation.exe
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\08. Graduation\bin\Debug\net6.0\08. Graduation.deps.json
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\08. Graduation\bin\Debug\net6.0\08. Graduation.runtimeconfig.json
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\08. Graduation\bin\Debug\net6.0\08. Graduation.dll
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\08. Graduation\bin\Debug\net6.0\08. Graduation.pdb
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\08. Graduation\obj\Debug\net6.0\08. Graduation.csproj.AssemblyReference.cache
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\08. Graduation\obj\Debug\net6.0\08. Graduation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\08. Graduation\obj\Debug\net6.0\08. Graduation.AssemblyInfoInputs.cache
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\08. Graduation\obj\Debug\net6.0\08. Graduation.AssemblyInfo.cs
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\08. Graduation\obj\Debug\net6.0\08. Graduation.csproj.CoreCompileInputs.cache
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\08. Graduation\obj\Debug\net6.0\08. Graduation.dll
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\08. Graduation\obj\Debug\net6.0\refint\08. Graduation.dll
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\08. Graduation\obj\Debug\net6.0\08. Graduation.pdb
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\08. Graduation\obj\Debug\net6.0\08. Graduation.genruntimeconfig.cache
+C:\Users\chele\softuni\C#\C# Basics\09. While Loop\08. Graduation\obj\Debug\net6.0\ref\08. Graduation.dll
