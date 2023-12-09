@@ -1,0 +1,15 @@
+C:\Users\chele\softuni\C#\C# Basics\11. Nested Loops\01. Clock\bin\Debug\net6.0\01. Clock.exe
+C:\Users\chele\softuni\C#\C# Basics\11. Nested Loops\01. Clock\bin\Debug\net6.0\01. Clock.deps.json
+C:\Users\chele\softuni\C#\C# Basics\11. Nested Loops\01. Clock\bin\Debug\net6.0\01. Clock.runtimeconfig.json
+C:\Users\chele\softuni\C#\C# Basics\11. Nested Loops\01. Clock\bin\Debug\net6.0\01. Clock.dll
+C:\Users\chele\softuni\C#\C# Basics\11. Nested Loops\01. Clock\bin\Debug\net6.0\01. Clock.pdb
+C:\Users\chele\softuni\C#\C# Basics\11. Nested Loops\01. Clock\obj\Debug\net6.0\01. Clock.csproj.AssemblyReference.cache
+C:\Users\chele\softuni\C#\C# Basics\11. Nested Loops\01. Clock\obj\Debug\net6.0\01. Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chele\softuni\C#\C# Basics\11. Nested Loops\01. Clock\obj\Debug\net6.0\01. Clock.AssemblyInfoInputs.cache
+C:\Users\chele\softuni\C#\C# Basics\11. Nested Loops\01. Clock\obj\Debug\net6.0\01. Clock.AssemblyInfo.cs
+C:\Users\chele\softuni\C#\C# Basics\11. Nested Loops\01. Clock\obj\Debug\net6.0\01. Clock.csproj.CoreCompileInputs.cache
+C:\Users\chele\softuni\C#\C# Basics\11. Nested Loops\01. Clock\obj\Debug\net6.0\01. Clock.dll
+C:\Users\chele\softuni\C#\C# Basics\11. Nested Loops\01. Clock\obj\Debug\net6.0\refint\01. Clock.dll
+C:\Users\chele\softuni\C#\C# Basics\11. Nested Loops\01. Clock\obj\Debug\net6.0\01. Clock.pdb
+C:\Users\chele\softuni\C#\C# Basics\11. Nested Loops\01. Clock\obj\Debug\net6.0\01. Clock.genruntimeconfig.cache
+C:\Users\chele\softuni\C#\C# Basics\11. Nested Loops\01. Clock\obj\Debug\net6.0\ref\01. Clock.dll
